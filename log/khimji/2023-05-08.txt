@@ -1,0 +1,21 @@
+
+08-05-2023 18:26:40
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+08-05-2023 18:27:17
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+08-05-2023 18:28:09
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+08-05-2023 18:29:22
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+08-05-2023 18:32:04
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []

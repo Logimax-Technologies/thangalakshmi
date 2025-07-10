@@ -1,0 +1,5 @@
+
+14-02-2023 16:19:08
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":42,"reference_no":"","sync_scheme_code":"W01","amount":"500","nominee_name":"Haritha","nominee_relationship":"sister","nominee_address1":"","nominee_address2":"","nominee_mobile":"9876543210","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":42,"id_scheme_account":"71","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_42","payment_type":"Manual","payment_mode":"CSH"}

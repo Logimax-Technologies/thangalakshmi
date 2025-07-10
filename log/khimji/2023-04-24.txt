@@ -1,0 +1,87 @@
+
+24-04-2023 10:16:37
+ API : app/v1/saveSchemeOrInstallmentDetails - No Pending data available !!
+24-04-2023 11:04:34
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:04:36
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:07:23
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:07:26
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:08:43
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:08:45
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:11:58
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:12:00
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:12:45
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:12:47
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:13:53
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:13:55
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:28:28
+ API : app/v1/saveSchemeOrInstallmentDetails - No Pending data available !!
+24-04-2023 11:34:08
+ API : app/v1/saveSchemeOrInstallmentDetails - No Pending data available !!
+24-04-2023 11:34:49
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:34:51
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:35:45
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:37:28
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:39:18
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}
+24-04-2023 11:40:39
+ API : app/v1/saveSchemeOrInstallmentDetails - No Pending data available !!
+24-04-2023 11:41:54
+ API : app/v1/saveSchemeOrInstallmentDetails - No Pending data available !!
+24-04-2023 11:43:08
+ API : app/v1/saveSchemeOrInstallmentDetails - No Pending data available !!
+24-04-2023 11:43:26
+ API : app/v1/saveSchemeOrInstallmentDetails - No Pending data available !!
+24-04-2023 11:44:01
+ API : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : Array 
+ Response : {"status":true,"data":{"data":null,"error":true,"resCol":[{"code":200,"message":"Returning Due to Authorization Header is Not Present. :","statusType":1,"moreInfoUrl":null,"throwable":null}]}}

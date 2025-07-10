@@ -1,0 +1,9 @@
+
+24-04-2023 10:04:55 
+ Edit Payment : {"date_payment":"2023-04-21","id_scheme_account":"1","id_payment":"1","payment_amount":"10000","metal_rate":"5665","metal_weight":"1.765","receipt_no":"234","payment_status":"1"}
+24-04-2023 10:39:32 
+ Edit Payment : {"date_payment":"2023-04-12","id_scheme_account":"10","id_payment":"10","payment_amount":"10000","metal_rate":"5665","metal_weight":"1.765","receipt_no":"235","payment_status":"1"}
+24-04-2023 10:40:58 
+ Edit Payment : {"date_payment":"2023-03-15","id_scheme_account":"9","id_payment":"14","payment_amount":"10000","metal_rate":"5350","metal_weight":"0","receipt_no":"236","payment_status":"1"}
+24-04-2023 10:54:56 
+ Edit Payment : {"date_payment":"2022-11-30","id_scheme_account":"10","id_payment":"11","payment_amount":"10000","metal_rate":"4865","metal_weight":"0","receipt_no":"236","payment_status":"1"}

@@ -1,0 +1,5 @@
+
+12-05-2023 13:26:25 
+ Edit Payment : {"date_payment":"2023-04-12","id_scheme_account":"44","id_payment":"174","payment_amount":"1000","metal_rate":"5665","metal_weight":"0.177","receipt_no":"140","payment_status":"1"}
+12-05-2023 15:03:08 
+ Edit Payment : {"date_payment":"2023-05-11","id_scheme_account":"525","id_payment":"1815","payment_amount":"5001","metal_rate":"5565","metal_weight":"0.899","receipt_no":"1315","payment_status":"1"}

@@ -1,0 +1,1 @@
+[{"last_tag_code":null,"new_tag_code":"00001","tag_id":187990,"date_time":"2023-04-13 19:23:32","ip_address":"42.106.84.244"}]

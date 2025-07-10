@@ -1,0 +1,1232 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:36 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 01:23:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:23:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:23:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:24:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:24:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:24:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:24:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:24:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:24:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:20 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:20 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:25:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 10:57:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 01:27:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 10:57:30 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:30 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:30 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:30 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:30 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:30 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 10:57:30 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 01:27:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:27:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:27:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:28:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:28:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:12 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:12 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:15 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:19 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:19 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:19 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:19 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:24 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:39 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:39 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:29:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:29:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined index: is_digi /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1680
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined variable: walletArr /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1745
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Trying to access array offset on value of type null /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1745
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined variable: walletArr /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1746
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Trying to access array offset on value of type null /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1746
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined index: is_digi /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1749
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined variable: restrict_pay /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1751
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined variable: digi_allowpay_msg /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1755
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined index: daily_payLimit_applicable /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1756
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined index: eligible_amt /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1757
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined index: daily_pay_limit /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1758
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined index: min_amount /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1759
+ERROR - 2023-05-11 10:59:46 --> Severity: Notice  --> Undefined index: max_amount /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 1760
+ERROR - 2023-05-11 01:30:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:30:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:30:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:30:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 11:00:30 --> Severity: Notice  --> Undefined variable: result /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 2808
+ERROR - 2023-05-11 11:00:30 --> Severity: Warning  --> sizeof(): Parameter must be an array or an object that implements Countable /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 1603
+ERROR - 2023-05-11 01:31:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:31:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:31:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:31:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:31:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:31:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:31:15 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:31:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:31:19 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:31:19 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:31:19 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:31:19 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:32:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:32:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:32:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:32:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:32:32 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:32:32 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:32:32 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:32:32 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:32:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:32:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:32:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:32:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 11:02:57 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:02:57 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:02:57 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:02:57 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:02:57 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:02:57 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:02:57 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 01:32:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:32:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:32:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:32:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 11:02:57 --> Severity: Notice  --> Undefined index: branch_code /home/thangalakshmijew/public_html/tljemi/application/models/registration_model.php 724
+ERROR - 2023-05-11 01:33:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:33:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:33:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:33:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:33:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:33:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:33:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:33:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 11:03:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:03:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:03:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:03:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:03:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:03:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 11:03:22 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 01:33:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:33:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:33:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:33:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 11:03:22 --> Severity: Notice  --> Undefined index: branch_code /home/thangalakshmijew/public_html/tljemi/application/models/registration_model.php 724
+ERROR - 2023-05-11 01:33:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:33:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:33:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:33:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:33:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:33:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:33:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:33:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:50 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:50 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:50 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:50 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:51 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:58 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:58 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:58 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:58 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:58 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:58 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:58 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:58 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:38:59 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:38:59 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:35 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:35 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:54 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:54 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:54 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:54 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:54 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:54 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:54 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:54 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:39:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:39:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:40:04 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:40:04 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:40:05 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:40:05 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:40:05 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:40:05 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:40:05 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:40:05 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:54:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:54:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:55:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:55:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:55:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:55:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:55:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:55:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:56:02 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:56:02 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:56:05 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:56:05 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:56:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:56:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 01:56:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 01:56:06 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 11:26:06 --> Severity: Notice  --> Undefined index: firstname /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 796
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fsockopen(): Peer certificate CN=`mi3-lr3.supercp.com' did not match expected CN=`smtp.googlemail.com' /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5068
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fsockopen(): Failed to enable crypto /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5068
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fsockopen(): unable to connect to ssl://smtp.googlemail.com:465 (Unknown error) /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5068
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5539
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5608
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5539
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5608
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5539
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5608
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5539
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5608
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5539
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5539
+ERROR - 2023-05-11 11:26:06 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, bool given /home/thangalakshmijew/public_html/tljemi/system/libraries/Email.php 5608
+ERROR - 2023-05-11 11:26:06 --> Severity: Notice  --> Undefined index: serv_whatsapp /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 814
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 02:38:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 02:38:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 02:38:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:42 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:24:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 04:54:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:07:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:37 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:38 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:10:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:10:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:12:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:12:16 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:16:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:16:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:27 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:27 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:40 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:40 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:19:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:19:41 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:20:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:20:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:20:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:20:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:20:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:20:22 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:01 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:01 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:03 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:11 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:11 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:29 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:29 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:29:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:29:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:53 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:32:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:32:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 16:02:56 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:02:56 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:02:56 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:02:56 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:02:56 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:02:56 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:02:56 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 06:32:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 16:02:56 --> Severity: Notice  --> Undefined index: branch_code /home/thangalakshmijew/public_html/tljemi/application/models/registration_model.php 724
+ERROR - 2023-05-11 06:32:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:32:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 16:03:00 --> Severity: Warning  --> count(): Parameter must be an array or an object that implements Countable /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 1770
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 16:03:00 --> Severity: Warning  --> count(): Parameter must be an array or an object that implements Countable /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 1770
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:04 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:04 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:04 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:04 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 16:03:04 --> Severity: Notice  --> Undefined index: productinfo /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 3844
+ERROR - 2023-05-11 06:33:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 16:03:23 --> Severity: Warning  --> file_put_contents(log/cashfree/mob_response_2023-05-11.txt): failed to open stream: No such file or directory /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 4498
+ERROR - 2023-05-11 16:03:23 --> Severity: Notice  --> Undefined variable: mobiles /home/thangalakshmijew/public_html/tljemi/application/models/mobileapi_model.php 2402
+ERROR - 2023-05-11 06:33:24 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:33:24 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:34:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:34:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:34:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:34:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:34:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:34:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:34:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:34:38 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 16:04:38 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:04:38 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:04:38 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:04:38 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:04:38 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:04:38 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:04:38 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:04:38 --> Severity: Notice  --> Undefined index: branch_code /home/thangalakshmijew/public_html/tljemi/application/models/registration_model.php 724
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:55 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:35:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:35:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:03 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:21 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:21 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:26 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 16:06:26 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:06:26 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:06:26 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:06:26 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:06:26 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:06:26 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:06:26 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 06:36:29 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:29 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:36:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:36:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:08 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:10 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:23 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 16:07:23 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:07:23 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:07:23 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:07:23 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:07:23 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:07:23 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 16:07:23 --> Severity: Notice  --> Undefined index: goldrate_22ct /home/thangalakshmijew/public_html/tljemi/application/controllers/mobile_api.php 157
+ERROR - 2023-05-11 06:37:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:36 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:50 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:50 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:37:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:37:53 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:35 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:35 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:45 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:45 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:45 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:45 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:45 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:45 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:45 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:45 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:45 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:45 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:48 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:50 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:50 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:38:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:40:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:40:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:40:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:40:31 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:40:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:40:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:40:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:40:52 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:46 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:47 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:51 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:51 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:53:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:53:56 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:56:19 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:56:19 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:56:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:56:47 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:56:59 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:56:59 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:57:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:57:17 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:57:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:57:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:57:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:57:18 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:58:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:58:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:58:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:58:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:58:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:58:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:58:29 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:58:29 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:58:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:58:37 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:58:39 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:58:39 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:59:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:59:25 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:59:32 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:59:32 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 06:59:32 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 06:59:32 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:32 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:33 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:34 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:43 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:00:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:00:57 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:07 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:09 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:09 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:13 --> Severity: Notice  --> Undefined property: CI_Loader::$login_model /home/thangalakshmijew/public_html/tljemi/application/views/layout/header.php 9
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:13 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:29 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:29 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:01:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:01:30 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:02:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:02:49 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322
+ERROR - 2023-05-11 07:05:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 133
+ERROR - 2023-05-11 07:05:00 --> Severity: Warning  --> Creating default object from empty value /home/thangalakshmijew/public_html/tljemi/application/libraries/REST_Controller.php 322

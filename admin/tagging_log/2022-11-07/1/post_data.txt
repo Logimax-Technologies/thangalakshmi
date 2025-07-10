@@ -1,0 +1,1 @@
+[{"last_tag_code":"PL22BRA-00009","new_tag_code":"00010","tag_id":186987,"date_time":"2022-11-07 11:54:07","ip_address":"103.87.104.49"}]

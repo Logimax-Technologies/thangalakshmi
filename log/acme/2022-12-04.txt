@@ -1,0 +1,17 @@
+
+04-12-2022 10:48:20
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":97,"reference_no":"","sync_scheme_code":"SNH","amount":"500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":97,"id_scheme_account":"23","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_97","payment_type":"Manual","payment_mode":"CSH"}
+04-12-2022 10:57:03
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":98,"reference_no":"","sync_scheme_code":"SNH","amount":"500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":98,"id_scheme_account":"24","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_98","payment_type":"Manual","payment_mode":"CSH"}
+04-12-2022 11:02:25
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":99,"reference_no":"","sync_scheme_code":"SNH","amount":"500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":99,"id_scheme_account":"23","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_99","payment_type":"Manual","payment_mode":"CSH"}
+04-12-2022 12:53:13
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":100,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":100,"id_scheme_account":"26","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_100","payment_type":"Manual","payment_mode":"CSH"}

@@ -1,0 +1,69 @@
+
+10-12-2022 09:53:53
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":157,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":157,"id_scheme_account":"6","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_157","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 09:54:43
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":158,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":158,"id_scheme_account":"6","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_158","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 09:58:51
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":159,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"Raja","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"007","scheme_acc_number":null}
+ Payment Post : {"id_payment":159,"id_scheme_account":"69","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_159","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 10:10:03
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":160,"reference_no":"","sync_scheme_code":"ESY-500","amount":"500","nominee_name":"Raja","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":160,"id_scheme_account":"29","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_160","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 10:11:48
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":161,"reference_no":"","sync_scheme_code":"ESY-500","amount":"500","nominee_name":"Raja","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":161,"id_scheme_account":"29","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_161","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 10:22:06
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":162,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"Raja","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"007","scheme_acc_number":null}
+ Payment Post : {"id_payment":162,"id_scheme_account":"69","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_162","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 10:23:52
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":163,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":163,"id_scheme_account":"10","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_163","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 10:31:06
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":164,"reference_no":"","sync_scheme_code":"ESY-500","amount":"500","nominee_name":"Raja","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":164,"id_scheme_account":"29","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_164","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 10:32:52
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":165,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"Raja","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":165,"id_scheme_account":"70","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_165","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 11:15:03
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":166,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"Raja","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":166,"id_scheme_account":"70","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_166","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 11:17:30
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":167,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"Raja","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":167,"id_scheme_account":"70","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_167","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 11:24:09
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":168,"reference_no":"","sync_scheme_code":"ISWL-250","amount":"250","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":168,"id_scheme_account":"71","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"250","id_transaction":"ADM_REF_168","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 11:40:36
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":1,"reference_no":"3605","sync_scheme_code":"KK1","amount":"1000","nominee_name":"abinaya","nominee_relationship":"friend","nominee_address1":"","nominee_address2":"","nominee_mobile":"9944366316","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":1,"id_scheme_account":"1","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_1","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 12:00:50
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":2,"reference_no":"","sync_scheme_code":"W01","amount":"500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"003","scheme_acc_number":null}
+ Payment Post : {"id_payment":2,"id_scheme_account":"2","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_2","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 12:35:39
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":3,"reference_no":"","sync_scheme_code":"GFA A","amount":"5000","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":3,"id_scheme_account":"3","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"5000","id_transaction":"ADM_REF_3","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 12:37:21
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":4,"reference_no":"","sync_scheme_code":"GFA A","amount":"5000","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":4,"id_scheme_account":"3","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"5000","id_transaction":"ADM_REF_4","payment_type":"Manual","payment_mode":"CSH"}
+10-12-2022 14:34:28
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":5,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"Raja","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":5,"id_scheme_account":"4","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_5","payment_type":"Manual","payment_mode":"CSH"}

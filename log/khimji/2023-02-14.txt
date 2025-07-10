@@ -1,0 +1,117 @@
+
+14-02-2023 16:09:46
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:09:52
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:09:56
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:10:02
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:10:24
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:10:41
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:12:15
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:14:04
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:14:08
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:14:11
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:14:45
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:14:47
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:19:07
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"W01","amount":"500","date":"2023-02-14","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"Haritha","relation":"sister","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9876543210"}}
+ Response : {"status":true,"data":null}
+14-02-2023 16:19:08
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"500","authorizationNo":"ADM_REF_42","narration":"Manual-CSH","originalAmt":"500","transationAmt":"500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+14-02-2023 16:21:42
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:21:54
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:21:57
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:21:59
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:22:01
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:23:15
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:23:39
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:25:26
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:28:05
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:28:07
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:28:09
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:28:12
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:28:14
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:28:19
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []
+14-02-2023 16:28:21
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : []

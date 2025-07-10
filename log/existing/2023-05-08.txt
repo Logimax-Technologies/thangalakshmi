@@ -1,0 +1,7 @@
+
+08-05-2023 18:26:37
+ API : user 
+ sync called less than 15 min. CUS ID : 40 | 9025384947 | BRN ID :1 | validateUser
+08-05-2023 18:27:13
+ API : user 
+ sync called less than 15 min. CUS ID : 40 | 9025384947 | BRN ID :1 | validateUser

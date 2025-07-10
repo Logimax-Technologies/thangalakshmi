@@ -1,0 +1,17 @@
+
+16-12-2022 14:57:50
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"3605","transactionType":1,"schemeCode":"456","amount":"1000","date":"2022-12-16","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"abinaya","relation":"friend","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9944366316"}}
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+16-12-2022 14:57:51
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"1000","authorizationNo":"ADM_REF_28","narration":"Manual-CSH","originalAmt":"1000","transationAmt":"1000","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+16-12-2022 18:06:59
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"3605","transactionType":1,"schemeCode":"456","amount":"74.00","date":"2022-12-16","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"abinaya","relation":"friend","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9944366316"}}
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+16-12-2022 18:07:00
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"74.00","authorizationNo":"ADM_REF_29","narration":"Manual-CSH","originalAmt":"74.00","transationAmt":"74.00","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}

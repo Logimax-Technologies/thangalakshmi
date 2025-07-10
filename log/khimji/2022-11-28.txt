@@ -1,0 +1,41 @@
+
+28-11-2022 13:02:38
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : {"khj_sync_status":0,"last_sync_time":"2022-11-28 13:02:37","CUS_REF_NO":"CUS REF NO : 30"}
+28-11-2022 13:02:49
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : {"khj_sync_status":0,"last_sync_time":"2022-11-28 13:02:48","CUS_REF_NO":"CUS REF NO : 4"}
+28-11-2022 16:43:24
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"PON","amount":"2000","date":"2022-11-28","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+28-11-2022 16:43:25
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"2000","authorizationNo":"ADM_REF_182","narration":"Manual-CSH","originalAmt":"2000","transationAmt":"2000","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+28-11-2022 16:55:51
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"PON","amount":"2000","date":"2022-11-28","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":""}}
+ Response : {"status":true,"data":null}
+28-11-2022 16:55:52
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"2000","authorizationNo":"ADM_REF_183","narration":"Manual-CSH","originalAmt":"2000","transationAmt":"2000","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+28-11-2022 17:28:57
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : {"khj_sync_status":0,"last_sync_time":"2022-11-28 17:28:56","CUS_REF_NO":"CUS REF NO : 4"}
+28-11-2022 17:29:13
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : {"khj_sync_status":0,"last_sync_time":"2022-11-28 17:29:12","CUS_REF_NO":"CUS REF NO : 4"}
+28-11-2022 17:30:03
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : {"khj_sync_status":0,"last_sync_time":"2022-11-28 17:30:02","CUS_REF_NO":"CUS REF NO : 4"}
+28-11-2022 17:33:20
+ API : user/getSchemeDetails 
+ Response : {"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false} 
+ Result : {"khj_sync_status":0,"last_sync_time":"2022-11-28 17:33:19","CUS_REF_NO":"CUS REF NO : 4"}

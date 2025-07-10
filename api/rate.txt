@@ -1,0 +1,1 @@
+{"goldrate_22ct":"5625.00","silverrate_1kg":0,"silverrate_1gm":76.5,"mjdmagoldrate_22ct":"5625.00","mjdmasilverrate_1gm":"76.50","market_gold_18ct":0,"goldrate_18ct":0,"updatetime":"1684987477"}

@@ -1,0 +1,1 @@
+[{"last_tag_code":"SL22RIN-00884","new_tag_code":"00885","tag_id":187025,"date_time":"2022-11-30 17:54:42","ip_address":"103.87.104.49"}][{"last_tag_code":"SL2233-00885","new_tag_code":"00886","tag_id":187026,"date_time":"2022-11-30 18:06:24","ip_address":"103.87.104.49"}]

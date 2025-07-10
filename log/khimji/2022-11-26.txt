@@ -1,0 +1,177 @@
+
+26-11-2022 11:07:50
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"jp5000","amount":"5000","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":""}}
+ Response : {"status":true,"data":null}
+26-11-2022 11:07:51
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"5000","authorizationNo":"ADM_REF_155","narration":"Manual-MULTI","originalAmt":"5000","transationAmt":"5000","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 14:00:17
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":""}}
+ Response : {"status":true,"data":null}
+26-11-2022 14:00:18
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"500","authorizationNo":"ADM_REF_158","narration":"Manual-CSH","originalAmt":"500","transationAmt":"500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 14:08:22
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"Gokul","relation":"Father","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9524776495"}}
+ Response : {"status":true,"data":null}
+26-11-2022 14:08:23
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"500","authorizationNo":"ADM_REF_159","narration":"Manual-CSH","originalAmt":"500","transationAmt":"500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 15:17:38
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"pavithra","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9150027594"}}
+ Response : {"status":true,"data":null}
+26-11-2022 15:17:39
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"500","authorizationNo":"ADM_REF_160","narration":"Manual-CSH","originalAmt":"500","transationAmt":"500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 15:46:39
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"AKS","amount":"1000","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"pavithra","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9150027594"}}
+ Response : {"status":true,"data":null}
+26-11-2022 15:46:40
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"1000","authorizationNo":"ADM_REF_161","narration":"Manual-CSH","originalAmt":"1000","transationAmt":"1000","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 16:40:36
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"PON","amount":"2000","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 16:40:37
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"2000","authorizationNo":"ADM_REF_162","narration":"Manual-CSH","originalAmt":"2000","transationAmt":"2000","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:03:22
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:03:23
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"500","authorizationNo":"ADM_REF_163","narration":"Manual-CSH","originalAmt":"500","transationAmt":"500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:08:42
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:08:43
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_164","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:08:45
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:08:46
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_165","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:08:47
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:08:48
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_166","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:08:50
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:08:51
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_167","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:08:53
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:08:54
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_168","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:08:56
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:08:57
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_169","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:08:59
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:09:00
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_170","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:09:01
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:09:02
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_171","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:09:04
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:09:05
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_172","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:09:07
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:09:08
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_173","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:09:10
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:09:11
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_174","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:09:12
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:09:14
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_175","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:09:15
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:09:16
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_176","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:09:18
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:09:19
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_177","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}
+26-11-2022 17:09:21
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post : {"isKycValidationCheck":false,"customerCode":"","transactionType":1,"schemeCode":"SRN18","amount":"7500","date":"2022-11-26","narration":",","action":1,"salesmanName":"Logimax","employeeId":"","nominee":{"nomineeName":"karthika","relation":"","address1":"","address2":"","dateOfBirth":null,"mobileNo":"9585554899"}}
+ Response : {"status":true,"data":null}
+26-11-2022 17:09:22
+ ADMIN : app/v1/saveSchemeOrInstallmentDetails 
+ Post Data : {"isKycValidationCheck":false,"transactionType":2,"tranUniqueId":null,"branchCode":null,"paymentDetail":{"paymentType":1,"paymentTypeName":"Cash","amount":"7500","authorizationNo":"ADM_REF_178","narration":"Manual-CSH","originalAmt":"7500","transationAmt":"7500","marchantCharges":0,"cardChargesAmount":0,"cardChargesPercentage":0}} 
+ Response : {"status":true,"data":{"data":{"errorCode":1,"errorMsg":"Requested Customer Not Found.","status":false}}}

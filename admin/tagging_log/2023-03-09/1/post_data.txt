@@ -1,0 +1,1 @@
+[{"last_tag_code":"GL231-00211","new_tag_code":"00212","tag_id":187735,"date_time":"2023-03-09 10:30:41","ip_address":"49.37.202.102"}][{"last_tag_code":"GL231-00212","new_tag_code":"00213","tag_id":187736,"date_time":"2023-03-09 10:35:08","ip_address":"49.37.202.102"}]

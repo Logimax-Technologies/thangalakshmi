@@ -1,0 +1,61 @@
+
+08-12-2022 09:22:16
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":118,"reference_no":"","sync_scheme_code":"W03","amount":"1500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":118,"id_scheme_account":"47","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1500","id_transaction":"ADM_REF_118","payment_type":"Manual","payment_mode":"CC"}
+08-12-2022 09:44:18
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":119,"reference_no":"","sync_scheme_code":"SNH","amount":"500","nominee_name":"Arun S","nominee_relationship":"Husband","nominee_address1":"","nominee_address2":"","nominee_mobile":"9894529917","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":119,"id_scheme_account":"48","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_119","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 10:28:32
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":121,"reference_no":"","sync_scheme_code":"W01","amount":"500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":121,"id_scheme_account":"49","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_121","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 10:43:11
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":122,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":122,"id_scheme_account":"50","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_122","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 10:53:40
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":124,"reference_no":"","sync_scheme_code":"W01","amount":"500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":124,"id_scheme_account":"51","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_124","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 11:10:20
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":125,"reference_no":"","sync_scheme_code":"SNH","amount":"500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":125,"id_scheme_account":"52","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_125","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 11:19:16
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":126,"reference_no":"","sync_scheme_code":"W01","amount":"500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":126,"id_scheme_account":"53","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_126","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 11:32:18
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":127,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":127,"id_scheme_account":"54","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_127","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 11:52:27
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":128,"reference_no":"","sync_scheme_code":"W01","amount":"500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":128,"id_scheme_account":"55","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_128","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 12:45:27
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":129,"reference_no":"","sync_scheme_code":"W01","amount":"500","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":129,"id_scheme_account":"56","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"500","id_transaction":"ADM_REF_129","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 12:49:33
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":130,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"Selva","nominee_relationship":"Brother","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":130,"id_scheme_account":"20","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_130","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 12:51:41
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":131,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"Selva","nominee_relationship":"Brother","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":131,"id_scheme_account":"20","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_131","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 12:52:48
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":132,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"Selva","nominee_relationship":"Brother","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":132,"id_scheme_account":"20","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_132","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 12:54:31
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":133,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"Selva","nominee_relationship":"Brother","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":133,"id_scheme_account":"20","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_133","payment_type":"Manual","payment_mode":"CSH"}
+08-12-2022 13:16:36
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":134,"reference_no":"","sync_scheme_code":"KK1","amount":"1000","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"SRI GANESH","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":134,"id_scheme_account":"58","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"1000","id_transaction":"ADM_REF_134","payment_type":"Manual","payment_mode":"CSH"}

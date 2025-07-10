@@ -1,0 +1,9 @@
+
+28-11-2022 16:43:25
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":182,"reference_no":"","sync_scheme_code":"PON","amount":"2000","nominee_name":"karthika","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"9585554899","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":182,"id_scheme_account":"123","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"2000","id_transaction":"ADM_REF_182","payment_type":"Manual","payment_mode":"CSH"}
+28-11-2022 16:55:52
+ ADMIN : Account and payment data to acme 
+ Account Post : {"id_payment":183,"reference_no":"","sync_scheme_code":"PON","amount":"2000","nominee_name":"","nominee_relationship":"","nominee_address1":"","nominee_address2":"","nominee_mobile":"","emp_name":"Logimax","referal_code":"","scheme_acc_number":null}
+ Payment Post : {"id_payment":183,"id_scheme_account":"124","scheme_acc_number":null,"offline_tran_uniqueid":null,"warehouse":null,"payment_amount":"2000","id_transaction":"ADM_REF_183","payment_type":"Manual","payment_mode":"CSH"}
