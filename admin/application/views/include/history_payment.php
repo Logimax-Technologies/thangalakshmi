@@ -12,7 +12,7 @@
 		 }
          </style>
 </head><body>
-<span class="PDFReceipt">
+<div class="PDFReceipt">
 
 <div><img alt="" src="<?php echo base_url();?>assets/img/receipt_logo.png" style="width:50%;"></div>
 <div class="address" align="right">
@@ -300,5 +300,5 @@ document.body.innerHTML = originalContents;
 
 
 </div>
- </span>          
+												</div>          
 </body></html>
